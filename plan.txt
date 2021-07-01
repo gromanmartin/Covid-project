@@ -1,0 +1,8 @@
+MAIN GOAL - visualize new daily cases of covid, serious cases, number of vaccinated people in the Czech rep
+
+1. Get the historical data up today 
+2. Setup a way to get new data every day 
+3. Create visualizations
+4. Create some predictions ..
+
+
